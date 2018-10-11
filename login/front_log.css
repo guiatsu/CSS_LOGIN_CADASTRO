@@ -1,0 +1,112 @@
+* {
+	font-family: "Open Sans";
+}
+
+.dinner {
+	bottom: 33.1em;
+	color: #505050;
+	font-size: 1.5em;
+	
+}
+.inputs {
+	color: #7A7A7A;
+}
+.labels {
+	display: block;
+	padding-bottom: 0.65em;
+}
+.input {
+	display: block;
+	border: #CED4DA solid;
+	border-width: 1px;
+	border-radius: 5px;
+	height: 3.15em;
+	width: 100%;
+	margin-bottom: 0.65em;
+}
+.login {
+	margin-top: 1.5em;
+	width: 100%;
+	height: 3.15em;
+	border-radius: 5px;
+	color: #FFFFFF;
+	background-color: #28A745;
+	display: flex;
+   	justify-content: center;
+   	align-items: center;
+}
+.login:hover {
+	cursor: pointer;
+	background-color: #FFFFFF;
+	color: #28A745;
+	border: 1px solid #28A745;
+}
+.divisor {
+	margin-top: 2.1em;
+	width: 100%;
+	border: 1px solid #DCDCDC;
+}
+.question {
+	font-size: 1.2em;
+	color: #656565;
+	margin-top: 2.1em;
+}
+.cadastro{
+	border-radius: 5px;
+	width: 20v class = "dinner">
+				<h1 class ="title">dinnerdash
+				</h1>
+			</div>
+			<div class = "inputs">
+				<label for="" class = "labels">Email</label>
+				<input type="text"class = "input">
+				<label for="" class = "labels">Senha</label>
+				<input type="password" class = "input">
+			</div>
+			<div class = "login">
+				fazer login
+			</div>
+			<div class = "divisor">
+			</div>
+			<div class = "question">
+				Não possui conta?
+			</div>
+			<div class = "cadastro">
+				<a href="..\cadastro\dinner.html" target = "blank">fazer meu cadastro</a>
+			<.6%;
+	height: 3.15em;
+
+}
+.cadastro a{
+	font-size: 1em;
+	color: #28A745;
+	border: solid #28A745;
+	border-radius: 5px;
+	border-width: 1px;
+	height: 3.15em;
+	margin-top: 2.1em;
+	display: flex;
+	text-decoration: none;
+	justify-content: center;
+	align-items: center;
+}
+.cadastro a:hover {
+	background-color: #28A745;
+	color: #FFFFFF;
+}
+.container {
+	display: flex;
+	flex-direction: row;
+}
+.conimg{
+	width: 70%;
+}
+.img {
+	width: 	95%;
+	height: 100vh;
+}
+.conput {
+	display: flex;
+	width: 25%;
+	flex-direction: column;
+}
